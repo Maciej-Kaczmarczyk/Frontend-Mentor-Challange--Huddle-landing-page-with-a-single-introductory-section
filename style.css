@@ -76,6 +76,7 @@
     .right button:hover{
         background: hsl(300, 69%, 71%);
         transition: 0.3s;
+        cursor: pointer;
     }
     footer{
         
@@ -103,6 +104,7 @@
     }
     .icon:hover{
         filter: invert(79%) sepia(15%) saturate(6405%) hue-rotate(238deg) brightness(97%) contrast(87%);
+        cursor: pointer;
     }
 }
 
@@ -173,6 +175,7 @@
     .right button:hover{
         background: hsl(300, 69%, 71%);
         transition: 0.3s;
+        cursor: pointer;
     }
     footer{
         display: flex;
@@ -190,6 +193,7 @@
     }
     .icon:hover{
         filter: invert(79%) sepia(15%) saturate(6405%) hue-rotate(238deg) brightness(97%) contrast(87%);
+        cursor: pointer;
     }
 }
 
