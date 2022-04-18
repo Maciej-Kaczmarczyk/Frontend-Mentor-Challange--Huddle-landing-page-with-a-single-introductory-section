@@ -71,6 +71,7 @@
         margin-top: 1vh;
         box-shadow: 3px 5px 22px #0000008f;
         transition: 0.3s;
+        cursor: pointer;
     }
     .right button:hover{
         background: hsl(300, 69%, 71%);
@@ -98,6 +99,7 @@
         margin: 5px;
         width: 2rem;
         height: 2rem; 
+        cursor: pointer;
     }
     .icon:hover{
         filter: invert(79%) sepia(15%) saturate(6405%) hue-rotate(238deg) brightness(97%) contrast(87%);
@@ -166,6 +168,7 @@
         margin-top: 0.5rem;
         box-shadow: 3px 5px 22px #0000008f;
         transition: 0.3s;
+        cursor: pointer;
     }
     .right button:hover{
         background: hsl(300, 69%, 71%);
@@ -183,6 +186,7 @@
         margin: 5px;
         width: 2rem;
         height: 2rem; 
+        cursor: pointer;
     }
     .icon:hover{
         filter: invert(79%) sepia(15%) saturate(6405%) hue-rotate(238deg) brightness(97%) contrast(87%);
